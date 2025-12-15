@@ -1,0 +1,23 @@
+Project 1 – Count Total Requests/Maximum Request Length
+Project 2 – List All Unique IP Addresses
+Project 3 – Count 404 Errors
+Project 4 – Requests per IP
+Project 5 – Show Only Error Requests
+Project 6 – HTTP Status Code Report
+Project 7 – Top Offending Clients (Error Generators)
+
+Project 8 – Per-Hour Traffic & Error Spike Analyzer
+	- Group requests by Hour
+	- Count total requests per Hour
+	- Count errors per Hour
+	
+Project 9 – Automated IP Reputation & Blocking Tool
+	Track per-IP:
+	 - Total requests
+	 - Error rate
+	 - Suspicious URLs
+	 - If thresholds exceeded:
+	 - Generate a blocklist
+	Example Output
+	  + 172.31.40.135 (error_rate=80%)
+	  + 184.82.92.239 (accessed /logs)
